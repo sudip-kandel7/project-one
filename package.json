@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sudip-kandel7.github.io/project-one",
+  "homepage": "https://sudip-kandel7.github.io/project-one/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
